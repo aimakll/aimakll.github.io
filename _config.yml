@@ -1,0 +1,23 @@
+# Site settings
+title: aimakll
+
+# subtitle
+# tagline:
+
+url: https://aimakll.github.io
+
+author:
+  name: aimakll
+description: "I just like to try stuff okay"
+
+social:
+  # displayed as the default author of the posts and the copyright owner in the footer
+  name: aimakll
+  #email: 
+  links:
+    # first element serves as the copyright owner's link
+    - https://github.com/aimakll
+    # https://www.linkedin.com/in/username
+
+# Build settings
+remote_theme: pages-themes/dinky@v0.2.0
