@@ -1,1 +1,0 @@
-# aimakll.github.io
